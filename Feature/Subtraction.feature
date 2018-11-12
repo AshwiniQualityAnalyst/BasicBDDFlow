@@ -4,7 +4,7 @@ Feature: Subtracting two numbers
   Background: Common first steps for all the scenarios again
     Given Print to check again
 
-  @SmokeTest1
+  @SmokeTest2
   Scenario: Minus a and b
     Given I have e
     Given I have f
